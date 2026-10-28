@@ -1,13 +1,11 @@
-<div align="center">
 # 양재혁 · DevOps / Cloud Engineer
  
 **운영 중인 시스템에서 원인을 끝까지 파고, 재발하지 않게 구조로 고치는 엔지니어**
  
-AWS · KT Cloud 멀티 클라우드 · Terraform · Kubernetes · GitOps · CI/CD
+AWS · Terraform · Kubernetes · GitOps · CI/CD
  
 [Portfolio(Notion)](https://app.notion.com/p/2f1d9077c730800cb72ce0cbf1e16b06?source=copy_link) · [Email](mailto:z94648569@gmail.com)
- 
-</div>
+
 ---
  
 ## 🏆 Featured Projects
